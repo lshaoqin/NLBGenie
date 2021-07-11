@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">NLB Wishlist</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="APIKey">REVWLVNoYW9xaW5MdTpzaGFvbmxiKiYk</string>
+    <string-array name="library_branches">
+        <item>TRL - Tampines Regional Library</item>
+        <item>WRL - Woodlands Regional Library</item>
+        <item>CMPL - Clementi Public Library</item>
+        <item>LKCRL - Lee Kong Chian Reference Library</item>
+        <item>AMKPL - Ang Mo Kio Public Library</item>
+        <item>BBPL - Bukit Batok Public Library</item>
+        <item>BPPL - Bukit Panjang Public Library</item>
+        <item>BMPL - Bukit Merah Public Library</item>
+        <item>CLL - Central Public Library</item>
+        <item>CSPL - Cheng San Public Library</item>
+        <item>CCKPL - Choa Chu Kang Public Library</item>
+        <item>GEPL - Geylang East Public Library</item>
+        <item>JRL - Jurong Regional Library</item>
+        <item>JWPL - Jurong West Public Library</item>
+        <item>QUPL - Queenstown Public Library </item>
+        <item>TPPL - Toa Payoh Public Library</item>
+        <item>YIPL - Yishun Public Library</item>
+        <item>OCPL - Library@Orchard</item>
+        <item>CNPL - Library@Chinatown</item>
+        <item>SBPL - Sembawang Public Library</item>
+        <item>SRPL - Serangoon Public Library </item>
+        <item>MPPL - Marine Parade Public Library</item>
+        <item>BEPL - Bedok Public Library</item>
+        <item>SKPL - Sengkang Public Library </item>
+        <item>EPPL - Library@Esplanade</item>
+        <item>PRPL - Pasir Ris Public Library</item>
+        <item>BIPL - Bishan Public Library </item>
+        <item>HBPL - HarbourFront Public Library</item>
+    </string-array>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="progressbar">Loading...</string>
+    <string name="search">Search</string>
+    <string name="i_am_visiting">I am visiting...</string>
+    <string name="add_item_to_wishlist">Add item to wishlist</string>
+    <string name="loadertext">Loading your search - if this takes too long, please press back and try again.</string>
+
+    <string name="instruction1">NLB Wishlist helps you to build a wishlist of books and search for available titles with a single tap. To add to your wishlist, press the "+" button at the bottom right. (Swipe left)</string>
+    <string name="instruction2">Type in at least one of the keyword and author of the book. The slider determines how many searches you wish to perform - performing more searches may return more results, but they may be less relevant. (Swipe left) </string>
+    <string name="instruction3">After you\'ve set up your wishlist, select the library you\'re visiting and then tap \"search\". Your wishlist and library will be saved locally for your next use.(Swipe left)</string>
+    <string name="instruction4">The app will then return a list of books which are available for loan. If loading appears to be stuck, try tapping back and restarting the search. (Swipe left to exit)</string>
+    <string name="restarttext">If progress seems to be stuck, pressing back and restarting the search may help.</string>
+
+</resources>
